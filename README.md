@@ -14,13 +14,13 @@ The DRUIDS Web Components demo was created to demonstrate how one of the DRUIDS 
 
 ## Installation
 
-To install the DRUIDS Web Components demo, you can use npm:
+To install the DRUIDS Web Components demo, you can use npm on app:
 
 ```bash
 npm install
 ```
 
-To run the project with vite, you can use npm:
+To run the project with vite, you can use npm on app:
 ```bash
 npm run dev
 ```
