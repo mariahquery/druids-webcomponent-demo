@@ -10,7 +10,7 @@ Welcome to the DRUIDS Web Components demo! This README provides an overview of t
 
 ## Introduction
 
-The DRUIDS Web Components demo is designed to provide a seamless and efficient way to integrate DRUIDS functionality into your web applications.
+The DRUIDS Web Components demo was created to demonstrate how one of the DRUIDS components can be developed using the Web Components technologies, along with Lit and Vite frameworks. In this case, I developed the Avatar component, based on the DRUIDS by Datadog.
 
 ## Installation
 
