@@ -20,6 +20,11 @@ To install the DRUIDS Web Components demo, you can use npm:
 npm install
 ```
 
+To run the project with vite, you can use npm:
+```bash
+npm run dev
+```
+
 ## Usage
 
 Here is a basic example of how to use the DRUIDS Web Component in your project:
