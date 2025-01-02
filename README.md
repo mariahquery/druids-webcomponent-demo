@@ -1,16 +1,10 @@
 # DRUIDS Web Components demo
 
-Welcome to the DRUIDS Web Components demo! This README provides an overview of the project, setup instructions, and other essential information.
+The DRUIDS Web Components demo was created to demonstrate how one of the DRUIDS components can be developed using the Web Components technologies, along with Lit and Vite frameworks. In this case, I developed the Avatar component, based on the DRUIDS by [Datadog](https://www.datadoghq.com/dg/monitor/datadog-free-trial/?utm_source=google&utm_medium=paid-search&utm_campaign=dg-brand-ww&utm_keyword=datadog&utm_matchtype=b&igaag=95325237782&igaat=&igacm=9551169254&igacr=678976642985&igakw=datadog&igamt=b&igant=g&utm_campaignid=9551169254&utm_adgroupid=95325237782&gad_source=1&gclid=Cj0KCQiAj9m7BhD1ARIsANsIIvDbJ1bxWEBHJwtGUZaiYjnKowi1xFFhOu4i8vl6PhOizcv6Kvgry6caAtDcEALw_wcB).
 
 ## Table of Contents
-
-- [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-
-## Introduction
-
-The DRUIDS Web Components demo was created to demonstrate how one of the DRUIDS components can be developed using the Web Components technologies, along with Lit and Vite frameworks. In this case, I developed the Avatar component, based on the DRUIDS by Datadog.
 
 ## Installation
 
